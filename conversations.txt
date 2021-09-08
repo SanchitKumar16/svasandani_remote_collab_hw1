@@ -1,1 +1,3 @@
 Shailesh: What is your favorite git command? 
+
+Sanchit Kumar: My favorite git commad would be "git pull"
